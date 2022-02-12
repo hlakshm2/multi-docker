@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"client","dependencies":{"@testing-library/jest-dom":{"version":"4.2.4"},"@testing-library/react":{"version":"9.5.0"},"@testing-library/user-event":{"version":"7.2.1"},"axios":{"version":"0.25.0"},"react-dom":{"version":"16.14.0"},"react-router-dom":{"version":"4.3.1"},"react-scripts":{"version":"3.4.3"},"react":{"version":"16.14.0"}}}
