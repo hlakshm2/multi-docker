@@ -1,5 +1,5 @@
 # multi-docker
-A fibonacci calculator by index that stores all previously calculated values on AWS RDS and AWS Elastic Cache.
+A fibonacci calculator by index that stores all previously calculated values on AWS RDS and AWS Elastic Cache
 
 Project demonstrating CI-CD pipeline Development --> Github --> Travis CI --> Docker Hub --> Multi-container deployment to AWS Beanstalk.$
 
